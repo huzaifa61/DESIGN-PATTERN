@@ -1,10 +1,10 @@
 package wc;
 
-public class weatherClass implements ObserverInterface {
+public class WeatherClass implements ObserverInterface {
 
     private String name ;
 
-    public weatherClass(String name) {
+    public WeatherClass(String name) {
         this.name = name;
     }
 

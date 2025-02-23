@@ -10,21 +10,17 @@ public class Main {
 
     public static void main(String[] args) {
 
-        ObservableInterface ob1 = new Observable();
-        ObserverInterface ob2 = new weatherClass("Observer 2");
+        ObservableInterface observableInterface = new Observable();
+        ObserverInterface observerInterface = new WeatherClass("Observer 2");
+        ObserverInterface observerInterface2 = new WeatherClass("Observer 3");
 
-        ob1.addObserver(ob2);
-        ob1.setData(10);
+        observableInterface.addObserver(observerInterface);
+        observableInterface.addObserver(observerInterface2);
+        observableInterface.setData(10);
+
+      // observableInterface.setData(0);
+
+       // observableInterface.setData(100);
     }
 
-//        observerExample(ob1);
-//        observerExample.addObserver(ob2);
-//
-//        System.out.println("Setting data to 'Hello, Observers!'");
-//        observerExample.setData("Hello, Observers got new info!");
-//
-//    // Remove one observer and update data again
-//        observerExample.removeObserver(ob2);
-//        System.out.println("Setting data to 'Goodbye, Observers!'");
-//        observerExample.setData("Goodbye, Observers!");
 }
