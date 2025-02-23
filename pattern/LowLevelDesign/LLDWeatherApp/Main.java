@@ -15,5 +15,5 @@ public class Main {
         stockObservable.addObserver(notificationAlertObserver);
         stockObservable.setData(10);
 
-    }\
+    }
 }
