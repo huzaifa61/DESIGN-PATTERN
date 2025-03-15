@@ -11,10 +11,10 @@
 - [AbstractFactory](pattern/creational/abstractFactory/)
 
 #### factory
-- [BuilderPattern.java](pattern/creational/)
-- [Factory.java](pattern/creational/)
-- [Prototype.java](pattern/creational/)
-- [SingletonDemo.java](pattern/creational/)
+- [BuilderPattern](pattern/creational/)
+- [Factory](pattern/creational/)
+- [Prototype](pattern/creational/)
+- [SingletonDemo](pattern/creational/)
 
 ---
 
