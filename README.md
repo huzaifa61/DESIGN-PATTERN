@@ -12,12 +12,9 @@
 
 #### factory
 - [BuilderPattern.java](pattern/creational/BuilderPattern/)
-- [Factory.java](pattern/creational/Factory/)
-- [Prototype.java](pattern/creational/Prototype/)
-- [SequenceNumber.java](pattern/creational/factory/SequenceNumber.java)
-- [SingletonDemo.java](pattern/creational/factory/SingletonDemo.java)
-- [test.java](pattern/creational/factory/test.java)
-- [WordLadder.java](pattern/creational/factory/WordLadder.java)
+- [Factory.java](pattern/creational/)
+- [Prototype.java](pattern/creational/)
+- [SingletonDemo.java](pattern/creational/)
 
 ---
 
