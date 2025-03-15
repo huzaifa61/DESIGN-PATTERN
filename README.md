@@ -8,7 +8,7 @@
 ### creational
 
 #### abstractFactory
-- [AbstractFactory.java](pattern/creational/abstractFactory/AbstractFactory)
+- [AbstractFactory.java](pattern/creational/abstractFactory/)
 
 #### factory
 - [BuilderPattern.java](pattern/creational/factory/BuilderPattern.java)
