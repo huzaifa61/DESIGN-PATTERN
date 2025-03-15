@@ -8,12 +8,12 @@
 ### creational
 
 #### abstractFactory
-- [AbstractFactory.java](pattern/creational/abstractFactory/)
+- [AbstractFactory](pattern/creational/abstractFactory/)
 
 #### factory
-- [BuilderPattern.java](pattern/creational/factory/BuilderPattern/)
-- [Factory.java](pattern/creational/factory/Factory.java)
-- [Prototype.java](pattern/creational/factory/Prototype.java)
+- [BuilderPattern.java](pattern/creational/BuilderPattern/)
+- [Factory.java](pattern/creational/Factory/)
+- [Prototype.java](pattern/creational/Prototype/)
 - [SequenceNumber.java](pattern/creational/factory/SequenceNumber.java)
 - [SingletonDemo.java](pattern/creational/factory/SingletonDemo.java)
 - [test.java](pattern/creational/factory/test.java)
