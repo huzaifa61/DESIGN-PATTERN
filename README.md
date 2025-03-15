@@ -14,7 +14,7 @@
 - [BuilderPattern](pattern/creational/BuilderPattern.java)
 - [Factory](pattern/creational/Factory.java)
 - [Prototype](pattern/creational/Prototype.java)
-- [Singleton](pattern/creational/Singleton.java)
+- [Singleton](pattern/creational/SingletonDemo.java)
 
 ---
 
