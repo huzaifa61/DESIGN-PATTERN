@@ -3,7 +3,7 @@
 ## pattern
 
 ### behavioural
-- [observable.java](pattern/behavioural/observable.java)
+- [Observable](pattern/behavioural/observable.java)
 
 ### creational
 
