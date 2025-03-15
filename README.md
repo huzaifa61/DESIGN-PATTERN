@@ -1,16 +1,16 @@
 # Project Structure
 
-## pattern
+## Design Pattern
 
-### behavioural
+### Behavioural
 - [Observable](pattern/behavioural/observable.java)
 
-### creational
+### Creational
 
-#### abstractFactory
+#### Abstract Factory
 - [AbstractFactory](pattern/creational/abstractFactory/)
 
-#### factory
+#### Factory
 - [BuilderPattern](pattern/creational/)
 - [Factory](pattern/creational/)
 - [Prototype](pattern/creational/)
