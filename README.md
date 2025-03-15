@@ -11,7 +11,7 @@
 - [AbstractFactory.java](pattern/creational/abstractFactory/)
 
 #### factory
-- [BuilderPattern.java](pattern/creational/factory/BuilderPattern.java)
+- [BuilderPattern.java](pattern/creational/factory/BuilderPattern/)
 - [Factory.java](pattern/creational/factory/Factory.java)
 - [Prototype.java](pattern/creational/factory/Prototype.java)
 - [SequenceNumber.java](pattern/creational/factory/SequenceNumber.java)
