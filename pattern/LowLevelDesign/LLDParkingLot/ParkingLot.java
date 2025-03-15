@@ -1,6 +1,13 @@
 package LLDParkingLot;
 
+import java.util.List;
+
 public class ParkingLot {
+
+    private int parkingLotId;
+    private String parkingLotName;
+    private List<EntranceGate> entryGates;
+    private List<ExitGate> exitGates;
 
     private static ParkingLot parkingLot;
 
